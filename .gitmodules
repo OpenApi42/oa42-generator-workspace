@@ -1,0 +1,3 @@
+[submodule "oag-generator-ts"]
+	path = oag-generator-ts
+	url = ./oag-generator-ts/
