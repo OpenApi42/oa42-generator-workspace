@@ -1,3 +1,7 @@
 [submodule "oag-generator-ts"]
 	path = oag-generator-ts
 	url = ./oag-generator-ts/
+[submodule "oa42-generator-ts"]
+	path = oa42-generator-ts
+	url = ../oa42-generator-ts
+	ignore = all
