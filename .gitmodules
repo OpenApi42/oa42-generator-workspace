@@ -2,6 +2,7 @@
 	path = oa42-generator-ts
 	url = ../oa42-generator-ts
 	ignore = all
-[submodule "oa42-lib"]
-	path = oa42-lib
-	url = ../oa42-lib
+[submodule "oa42-lib-ts"]
+	path = oa42-lib-ts
+	url = ../oa42-lib-ts
+	ignore = all

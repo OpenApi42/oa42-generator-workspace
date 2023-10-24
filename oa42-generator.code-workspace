@@ -1,8 +1,8 @@
 {
 	"folders": [
 		{
-			"name": "oa42-lib",
-			"path": "oa42-lib"
+			"name": "oa42-lib-ts",
+			"path": "oa42-lib-ts"
 		},
 		{
 			"name": "oa42-generator-ts",
