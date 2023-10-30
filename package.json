@@ -1,0 +1,6 @@
+{
+  "workspaces": [
+    "oa42-lib-ts",
+    "oa42-generator-ts"
+  ]
+}
