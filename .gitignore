@@ -1,0 +1,7 @@
+.*
+
+!.gitignore
+!.editorconfig
+
+/node_modules/
+
