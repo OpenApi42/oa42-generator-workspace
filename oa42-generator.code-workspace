@@ -8,5 +8,8 @@
 			"name": "oa42-generator-ts",
 			"path": "oa42-generator-ts"
 		}
-	]
+	],
+	"settings": {
+		"typescript.tsdk": "./node_modules/typescript/lib"
+	}
 }
