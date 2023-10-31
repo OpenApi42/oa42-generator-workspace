@@ -3,5 +3,8 @@
   "workspaces": [
     "oa42-lib-ts",
     "oa42-generator-ts"
-  ]
+  ],
+  "scripts": {
+    "postinstall": "npm run lock --workspaces"
+  }
 }

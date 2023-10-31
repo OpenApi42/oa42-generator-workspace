@@ -3,7 +3,5 @@
 !.gitignore
 !.editorconfig
 
-package-lock.json
-
 /node_modules/
 
