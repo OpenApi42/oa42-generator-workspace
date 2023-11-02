@@ -7,6 +7,9 @@
 		{
 			"name": "oa42-generator-ts",
 			"path": "oa42-generator-ts"
+		},
+		{
+			"path": "../jns42-generator-workspace/jns42-generator-ts"
 		}
 	],
 	"settings": {

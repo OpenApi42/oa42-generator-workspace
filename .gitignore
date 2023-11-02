@@ -1,9 +1,8 @@
 .*
 
-package-lock.json
-
 !.gitignore
 !.editorconfig
+!.npmrc
 
 /node_modules/
 
