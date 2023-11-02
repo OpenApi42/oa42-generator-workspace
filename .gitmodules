@@ -2,7 +2,12 @@
 	path = oa42-generator-ts
 	url = ../oa42-generator-ts
 	ignore = all
+  branch = .
+  fetchRecurseSubmodules = true
+
 [submodule "oa42-lib-ts"]
 	path = oa42-lib-ts
 	url = ../oa42-lib-ts
 	ignore = all
+  branch = .
+  fetchRecurseSubmodules = true
